@@ -22,6 +22,6 @@ bunx turbo dev
 ```
 
 - Web
-  - https://localhost:3001/
+  - http://localhost:3001/
 - Auth
-  - https://localhost:3002/
+  - http://localhost:3002/
