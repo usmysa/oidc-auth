@@ -1,11 +1,9 @@
-import { Button } from "@repo/ui/button";
-import styles from "./page.module.css";
-
 export default function Page(): JSX.Element {
   return (
-    <main className={styles.main}>
+    <main>
       <h1>Login Page</h1>
-      <Button appName="auth">Login</Button>
+      <button className="bg-green-500">Green</button>
+      <button className="bg-yellow-500">Yellow</button>
     </main>
   );
 }
