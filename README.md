@@ -4,8 +4,12 @@
   - [Next.js](https://github.com/vercel/next.js)
 - Monorepo tool
   - [Turborepo](https://github.com/vercel/turbo)
+- Styling
+  - [TailwindCSS](https://tailwindcss.com/)
 - JavaScript Runtime
   - [Bun](https://github.com/oven-sh/bun)
+- Linter, Formatter
+  - [Biome](https://biomejs.dev/)
 
 ## Quick Start
 
