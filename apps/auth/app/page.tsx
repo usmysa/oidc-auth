@@ -1,9 +1,11 @@
+import { Button } from "@repo/ui/button";
+
 export default function Page(): JSX.Element {
   return (
     <main>
       <h1>Login Page</h1>
-      <button className="bg-green-500">Green</button>
-      <button className="bg-yellow-500">Yellow</button>
+      <Button className="bg-green-500">Green</Button>
+      <Button className="bg-yellow-500">Yellow</Button>
     </main>
   );
 }

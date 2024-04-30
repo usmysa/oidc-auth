@@ -2,10 +2,7 @@
   "name": "@repo/tailwind-config",
   "version": "0.0.0",
   "private": true,
-  "files": [
-    "postcss.config.js",
-    "tailwind.config.ts"
-  ],
+  "files": ["postcss.config.js", "tailwind.config.ts"],
   "devDependencies": {
     "@repo/typescript-config": "*"
   }
