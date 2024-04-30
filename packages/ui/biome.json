@@ -1,3 +1,9 @@
 {
-  "extends": ["../../biome.json"]
+  "extends": ["../../biome.json"],
+  "formatter": {
+    "ignore": [".turbo"]
+  },
+  "linter": {
+    "ignore": [".turbo"]
+  }
 }
