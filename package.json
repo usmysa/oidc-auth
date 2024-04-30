@@ -6,15 +6,13 @@
     "dev:auth": "turbo dev --filter=auth",
     "dev:web": "turbo dev --filter=web",
     "dev": "turbo dev",
-    "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "lint": "turbo lint"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
-    "prettier": "^3.2.5",
-    "typescript": "^5.3.3",
-    "turbo": "latest"
+    "@biomejs/biome": "1.7.1",
+    "turbo": "latest",
+    "typescript": "^5.3.3"
   },
   "engines": {
     "node": ">=18"
